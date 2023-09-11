@@ -3,7 +3,6 @@ title: "Day 2 of #TerraWeek  Terraform Configuration Language (HCL)"
 datePublished: Mon Sep 11 2023 13:21:25 GMT+0000 (Coordinated Universal Time)
 cuid: clmewxaxj000009jn6phlh3gx
 slug: day-2-of-terraweek-terraform-configuration-language-hcl
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694437850017/45461096-5a80-4403-a6a5-dc2878b58005.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694437739058/677d4eb8-923b-4af2-b336-14c55c81b9ff.png
 tags: devops-journey, trainwithshubham, terraweekchallenge, trainwithshubham-techwithankush-seekhoaursikhao-twscommunitybuilders-90daysofdevops-connections-growth-community-learning-linkedin-devops-awsdevops-awscloud-awscommunity-aws-docker-dockercontainer-dockerhub-kubernetescluster-kubernetesservices-kubernetes-jenkins-ansible-ansibleautomates-linuxsystemadministration-linuxfoundation-linux-git-github-terraform-grafana-prometheus-cicd-cicdpipelines, devi
 
