@@ -40,6 +40,8 @@ module/
   └── outputs.tf
 ```
 
+---
+
 ### Task 2 : **Creating and Using Terraform Modules**
 
 To create a Terraform module, you'll need to create a new directory containing a set of **<mark>.tf</mark>** files that define the resources and variables for your module. Here's an example of a simple module that creates an AWS S3 bucket:
