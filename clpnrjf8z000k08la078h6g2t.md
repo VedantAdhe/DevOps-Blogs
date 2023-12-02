@@ -46,7 +46,7 @@ Freestyle Projects refer to a type of project configuration in Jenkins, a popula
     
 2. Configure the project. In the Source Code Management section &gt; Select Git &gt; Enter the GitHub Repository Link and the branch name.
     
-3. Repo link I have used: [**Django Todo App**](https://github.com/joy00900/django-todo-cicd).
+3. Repo link I have used: **Django Todo App**.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701503136161/eb33fab6-ebcc-4c96-a0b1-8e5ce29aabe6.png align="center")
